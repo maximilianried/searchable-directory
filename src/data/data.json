@@ -1,0 +1,393 @@
+{
+  "results": [
+    {
+      "name": "Einstellungen",
+      "details": {
+        "link": "/settings",
+        "use": "Hier gehts zu den Einstellungen und Informationen dieser App.",
+        "keywords": "Einstellungen, Info, Entwickler, Verantwortlicher, Softwareversion, Neuer Tab, Automatische Suche, Datenschutz, Privatsphäre",
+        "icon": "bi bi-gear"
+      }
+    },
+    {
+      "name": "Bibliothek",
+      "details": {
+        "link": "https://www.h-brs.de/de/bibliothek",
+        "use": "Die Hauptseite der Bibliothek mit Zugriff auf die Suchfunktion des Katalogs.",
+        "keywords": "Bücher, Medien, Bibliothek, Mediathek, Podcasts, Hörbücher, Leihmedien, Literatur",
+        "icon": "bi bi-book"
+      }
+    },
+    {
+      "name": "EVA",
+      "details": {
+        "link": "https://eva.inf.h-brs.de/zope/login/",
+        "use": "Im EVA-Portal meldest du dich zu Veranstaltungen an und siehst in welche Gruppe du eingeteilt bist. Zudem meldest du dich hier für Kurse an.",
+        "keywords": "Veranstaltungen, Gruppen, Gruppeneinteilung, Kurse, Kursanmeldung",
+        "icon": "bi bi-people"
+      }
+    },
+    {
+      "name": "LEA",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/login.php?target=&client_id=db_040811&auth_stat=",
+        "use": "Dies ist das E-Learning Portal der Hochschule. Hier findest du alle Inhalte zu den Lehrveranstaltungen.",
+        "keywords": "Lernmaterial, Vorlesungen, Folien, Mitschriften, Literatur",
+        "icon": "bi bi-folder"
+      }
+    },
+    {
+      "name": "Einführung in die Programmierung",
+      "details": {
+        "link": "https://berrendorf.inf.h-brs.de/lehre/ws2122/eidp/eidp.html",
+        "use": "Seite der Vorlesung Einführung in die Programmierung von Prof. Dr. Rudolf Berrendorf",
+        "keywords": "Einführung in die Programmierung, Vorlesung, Programmierung, Übungen, Programmierprojekte, Prüfung, Videokonferenzen",
+        "icon": "bi bi-terminal"
+      }
+    },
+    {
+      "name": "Praktomat",
+      "details": {
+        "link": "https://praktomat.inf.h-brs.de/2021w_rb/accounts/login/?next=/2021w_rb/tasks/",
+        "use": "Seite des Praktomaten von Prof. Dr. Rudolf Berrendorf zum Einreichen der Übungsaufgaben",
+        "keywords": "Einführung in die Programmierung, Praktomat, Programmierung, Übungen",
+        "icon": "bi bi-cloud-arrow-up"
+      }
+    },
+    {
+      "name": "Horde",
+      "details": {
+        "link": "https://horde.inf.h-brs.de/horde/login.php",
+        "use": "Hier sind deine Mails und dein Kalender mit allen Kontakten",
+        "keywords": "Kontakte, Kalender, Mail, E-Mail, EMail",
+        "icon": "bi bi-envelope"
+      }
+    },
+    {
+      "name": "EVA 2",
+      "details": {
+        "link": "https://eva2.inf.h-brs.de/stundenplan/",
+        "use": "Der EVA2-Dienst zeigt dir die Stundenpläne, die Curricula oder den Fachbereichs-Ticker an. Außerdem kann man sich hier Stillarbeitsräume reservieren.",
+        "keywords": "Stundenplan, Curriculum, Ticker, Räume, Raum, Stillarbeitsraum, Stillarbeitsräume",
+        "icon": "bi bi-calendar3"
+      }
+    },
+    {
+      "name": "Stundenplan",
+      "details": {
+        "link": "https://eva2.inf.h-brs.de/stundenplan/",
+        "use": "Hier findest du die Stundenplänen zu den verschiedenen Studiengängen.",
+        "keywords": "Stundenplan, Zeitplan, Plan, Vorlesungsplan",
+        "icon": "bi bi-calendar-range"
+      }
+    },
+    {
+      "name": "Fachbereichszeitplan",
+      "details": {
+        "link": "https://horde.inf.h-brs.de/fbz.html",
+        "use": "Eine Auflistung von wichtigen Terminen und den Feiertagen des Fachbereichs Informatik",
+        "keywords": "Zeitplan, Termine, Kalender",
+        "icon": "bi bi-calendar3"
+      }
+    },
+    {
+      "name": "Bibliothek Öffnungszeiten",
+      "details": {
+        "link": "https://www.h-brs.de/de/bib/bibliothek-campus-sankt-augustin",
+        "use": "Hier findest du die Öffnungszeiten der Bibliothek am Campus Sankt Augustin.",
+        "keywords": "Bücher, Medien, Bibliothek, Mediathek, Podcasts, Hörbücher, Leihmedien, Öffnungszeiten, Zeiten",
+        "icon": "bi bi-clock"
+      }
+    },
+    {
+      "name": "Praktika, Jobs...",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/jobboerse",
+        "use": "Angebote von Firmen zu Praktika, Jobs und Abschlussarbeiten sowie Messen, Workshops und Ausschreibungen für Wettbewerbe sowie Umfragen",
+        "keywords": "Unternehmen, Firma, Job, Praktikum, Jobbörse, Stellenanzeigen, Messen, Workshops, Ausschreibungen, Bewerben, Umfragen, Wettbewerbe",
+        "icon": "bi bi-building"
+      }
+    },
+
+    {
+      "name": "FAQ FB02",
+      "details": {
+        "link": "https://faq.inf.h-brs.de",
+        "use": "Im FAQ findest du technische Unterstützung und Hilfe zu allgemeinen Fragestellungen im Fachbereich Informatik.",
+        "keywords": "Hilfe, FAQ, Fragen, Konfigurationen, WLAN, WiFi, IMAP, SMTP",
+        "icon": "bi bi-question-square"
+      }
+    },
+    {
+      "name": "Mündliche Prüfungen",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/login.php?target=fold_123431&client_id=db_040811&auth_stat=",
+        "use": "Hier findest du die Termine zu den mündlichen Prüfungen. In der Regel werden diese 5 Werktage vor dem Termin veröffentlicht.",
+        "keywords": "Prüfungen, Abschlussprüfung, Mündlich",
+        "icon": "bi bi-award"
+      }
+    },
+    {
+      "name": "Prüfungsinformationen",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/pruefungsinfos",
+        "use": "Prüfungsordnung und Informationen zu den mündlichen Prüfungen.",
+        "keywords": "",
+        "icon": "bi bi-exclamation-square"
+      }
+    },
+    {
+      "name": "SIS",
+      "details": {
+        "link": "https://sis.h-brs.de/pp/sis?UserAcc=Gast&DokID=DiasSWeb&Action=Login",
+        "use": "Im SIS meldest du dich zu den Prüfungen an. Auch dein NRW-Ticket und deine Immatrikulationsbescheinigung findest du hier.",
+        "keywords": "Ticket, NRW Ticket, Prüfungsanmeldung, Anmelden, Immatrikulationsbescheinigung",
+        "icon": "bi bi-pencil-square"
+      }
+    },
+    {
+      "name": "Stillarbeitsräume",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/stillarbeitsraeume",
+        "use": "Über das Stillarbeitsraum-Buchungssystem SARBS können Studierende des Fachbereichs Informatik kostenlos online Räume reservieren.",
+        "keywords": "Räume, Raum, Raum buchen, Stillarbeit, Zusammenarbeiten, Lernen",
+        "icon": "bi bi-door-open"
+      }
+    },
+
+    {
+      "name": "Ticker und Aktuelles",
+      "details": {
+        "link": "https://eva2.inf.h-brs.de/ticker/infoscreen/",
+        "use": "Newsfeed mit aktuellen Themen und Ankündigungen des FB02.",
+        "keywords": "News, Nachrichten, Neuigkeiten, Ankündigungen, Wichtiges",
+        "icon": "bi bi-newspaper"
+      }
+    },
+    {
+      "name": "Tutorien und Studierwerkstatt",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/tutorien",
+        "use": "Hier erhälst du Hilfe bei der Bearbeitung von Aufgaben sowie anderen Lehrinhalten.",
+        "keywords": "Hilfe, Mentoren, Tutoren, Aufgaben bearbeiten",
+        "icon": "bi bi-chat-left-text"
+      }
+    },
+    {
+      "name": "Vorlesungsverzeichnis",
+      "details": {
+        "link": "https://eva.inf.h-brs.de/zope/lv/va",
+        "use": "Die Vorlesungsverzeichnisse der verschiedenen Studiengängen im FB02.",
+        "keywords": "Vorlesungen, Kurse",
+        "icon": "bi bi-file-text"
+      }
+    },
+    {
+      "name": "Corona Informationen",
+      "details": {
+        "link": "https://www.h-brs.de/de/corona",
+        "use": "Aktuelle Informationen zum Umgang mit Corona innerhalb der Hochschule.",
+        "keywords": "Corona, Virus, Verordungen, Gesetze, Covid",
+        "icon": "bi bi-exclamation-triangle"
+      }
+    },
+    {
+      "name": "FB02 News",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/aktuelles/news",
+        "use": "Ein RSS Newsfeed des Fachbereichs Informatik.",
+        "keywords": "News, Nachrichten, Neuigkeiten",
+        "icon": "bi bi-newspaper"
+      }
+    },
+    {
+      "name": "FB02 Termine",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/aktuelles/termine",
+        "use": "Ein RSS Feed der aktuellen Termine des Fachbereichs Informatik.",
+        "keywords": "Termine, Kalender, Neues",
+        "icon": "bi bi-calendar-check"
+      }
+    },
+    {
+      "name": "Professor:innen",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/professorinnen-und-professoren",
+        "use": "Eine Auflistung aller Professoren und Professorinnen des FB02.",
+        "keywords": "Professor, Lehrer, Lehrbeauftragter, Dozenten",
+        "icon": "bi bi-person-badge"
+      }
+    },
+    {
+      "name": "Lehrbeauftragte",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/lehrbeauftragte-im-fachbereich-informatik",
+        "use": "Eine Auflistung aller Lehrbeauftragten des FB02.",
+        "keywords": "Lehrbeauftragte, Ansprechpersonen, Dozenten",
+        "icon": "bi bi-person-badge"
+      }
+    },
+    {
+      "name": "Anlaufstellen",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/ansprechpartner-0",
+        "use": "Eine Auflistung von verschiedenen Stellen des FB02.",
+        "keywords": "Stellen, Snsprechpartner",
+        "icon": "bi bi-cursor"
+      }
+    },
+    {
+      "name": "Erstsemester Informationen",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/informationen-fuer-erstsemester-studierende",
+        "use": "Hier findest du alle Informationen, die in den ersten Tagen des Studiums relevant sind.",
+        "keywords": "Ersti, Erstsemester",
+        "icon": "bi bi-info-circle"
+      }
+    },
+    {
+      "name": "Portalübersicht FB02",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/die-portale-im-fachbereich-02-informatik",
+        "use": "Eine Übersicht der verschiedenen Portale des FB02",
+        "keywords": "Portale, Webseiten, Websites, Portal",
+        "icon": "bi bi-laptop"
+      }
+    },
+    {
+      "name": "Dekanat",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/dekanat",
+        "use": "Kontakt des Dekan und Prodekan im FB02.",
+        "keywords": "Dekan, Dekanat",
+        "icon": "bi bi-person"
+      }
+    },
+    {
+      "name": "Fachbereichsrat",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/fachbereichsrat-im-fachbereich-informatik",
+        "use": "Auflistung des Fachbereichsrats des Fachbereichs Informatik.",
+        "keywords": "Fachbereichsrat",
+        "icon": "bi bi-people"
+      }
+    },
+    {
+      "name": "Fachschaft",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/fachschaft",
+        "use": "Hier erfährst Du viel Wissenswertes über das Studium der Informatik, die einzelnen Spezialisierungen und Wahlpflichtfächer sowie vielem mehr.",
+        "keywords": "Fachschaft",
+        "icon": "bi bi-people"
+      }
+    },
+    {
+      "name": "Fachstudienberatung",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/Fachstudienberatung",
+        "use": "Ansprechpartner mit Kontaktdaten der Fachstudienberatung.",
+        "keywords": "Fachstudienberatung, Beratung, Studienberatung",
+        "icon": "bi bi-chat-dots"
+      }
+    },
+    {
+      "name": "Servicepoint FB02",
+      "details": {
+        "link": "https://www.h-brs.de/de/inf/servicepoint",
+        "use": "Unterstützung für Studierende und Lehrende/Lehrbeauftragte in vielen Bereichen.",
+        "keywords": "Servicepoint, Support, Technische Hilfe",
+        "icon": "bi bi-question-square"
+      }
+    },
+    {
+      "name": "Anonyme Kritik",
+      "details": {
+        "link": "https://eva.inf.h-brs.de/zope/kritik",
+        "use": "Hier kann dem Fachbereich Informatik konstruktive Kritik über das Formular abgegeben werden.",
+        "keywords": "Kritik, Anmerkungen, Feedback",
+        "icon": "bi bi-mailbox"
+      }
+    },
+    {
+      "name": "LEA 2021 WS - Betriebswirtschaftslehre",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1118443&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zum Kurs 2021 WS - Betriebswirtschaftslehre in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Kurs, BWL, LEA, 2021, Betriebswirtschaftslehre",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "LEA 2021 WS - Einführung in Diskrete Mathematik und Lineare Algebra",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1090910&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zum Kurs 2021 WS - Einführung in Diskrete Mathematik und Lineare Algebra in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Kurs, 2021, LEA, Einführung in Diskrete Mathematik und Lineare Algebra",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "LEA 2021 WS - Einführung in die Programmierung (Berrendorf)",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1090910&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zum Kurs 2021 WS - Einführung in die Programmierung (Berrendorf) in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Einführung in die Programmierung (Berrendorf), Kurs, LEA, 2021",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "LEA 2021 WS - Logische Grundlagen für die Informatik",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1090923&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zum Kurs 2021 WS - Logische Grundlagen für die Informatik in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Logische Grundlagen für die Informatik, LEA, Kurs, 2021",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "LEA 2021 WS - Technische Informatik & Physikalische Grundlagen",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1090970&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zum Kurs 2021 WS - Technische Informatik & Physikalische Grundlagen in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Technische Informatik & Physikalische Grundlagen, LEA, 2021, Kurs",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "LEA 2021 WS - Logische Grundlagen für die Informatik",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1090923&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zum Kurs 2021 WS - Logische Grundlagen für die Informatik in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Logische Grundlagen für die Informatik, Kurs, LEA, 2021",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "LEA Informationen für Erstsemester WS 2021/22",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1081990&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zum Kurs Informationen für Erstsemester WS 2021/22 in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Informationen für Erstsemester WS 2021/22, Ersti, 2021, Kurs, LEA",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "LEA Startseite Informatik",
+      "details": {
+        "link": "https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=214074&cmdClass=ilrepositorygui&cmdNode=v5&baseClass=ilrepositorygui",
+        "use": "Verlinkung zur Startseite Informatik in LEA. Funktioniert nur wenn bereits zuvor angemeldet.",
+        "keywords": "Startseite Informatik, LEA, Kurs, Informationen",
+        "icon": "bi bi-folder2-open"
+      }
+    },
+    {
+      "name": "Datenschutz",
+      "details": {
+        "link": "/settings",
+        "use": "Hier finden sich Informationen zum Datenschutz und wie diese App Einstellungswerte speichert.",
+        "keywords": "Datenschutz, Privatsphäre, Informationen",
+        "icon": "bi bi-shield-check"
+      }
+    }
+  ]
+}

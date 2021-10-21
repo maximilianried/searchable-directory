@@ -1,0 +1,14 @@
+#error-heading {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 24px;
+  padding-right: 38px;
+}
+
+#error-card {
+  border: 0;
+  border-radius: 14px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 0;
+}

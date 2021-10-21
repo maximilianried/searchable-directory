@@ -1,0 +1,9 @@
+#app-container {
+  max-width: 1200px;
+  margin: 48px auto;
+}
+
+#app-wrapper {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
