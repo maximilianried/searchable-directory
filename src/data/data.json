@@ -40,7 +40,7 @@
       "name": "Einführung in die Programmierung",
       "details": {
         "link": "https://berrendorf.inf.h-brs.de/lehre/ws2122/eidp/eidp.html",
-        "use": "Seite der Vorlesung Einführung in die Programmierung von Prof. Dr. Rudolf Berrendorf",
+        "use": "Seite der Vorlesung Einführung in die Programmierung",
         "keywords": "Einführung in die Programmierung, Vorlesung, Programmierung, Übungen, Programmierprojekte, Prüfung, Videokonferenzen",
         "icon": "bi bi-terminal"
       }
@@ -49,7 +49,7 @@
       "name": "Praktomat",
       "details": {
         "link": "https://praktomat.inf.h-brs.de/2021w_rb/accounts/login/?next=/2021w_rb/tasks/",
-        "use": "Seite des Praktomaten von Prof. Dr. Rudolf Berrendorf zum Einreichen der Übungsaufgaben",
+        "use": "Seite des Praktomaten zum Einreichen der Übungsaufgaben",
         "keywords": "Einführung in die Programmierung, Praktomat, Programmierung, Übungen",
         "icon": "bi bi-cloud-arrow-up"
       }
