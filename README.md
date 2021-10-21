@@ -4,9 +4,9 @@
 I created this application to easily search for all the important websites at my university without having to bookmark every single page. <br>
 The application features a settings menu with options for...
 
-<li>Setting dark or light mode</li>
-<li>Creating a new when a card is clicked</li>
-<li>Quick search automatically selects the input field</li>
+* Setting dark or light mode
+* Creating a new when a card is clicked
+* Quick search automatically selects the input field
 
 When a card is clicked the app will redirect to the desired page.
 Depending on the settings the page will be load in the same tab or in a new tab.
