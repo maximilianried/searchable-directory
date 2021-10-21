@@ -17,7 +17,7 @@ Boostrap-Icons are used for the cards and the settings menu. <br>
 Using the app will create locally stored variables to save the settings.
 
 ## Preview
-![Preview](preview/preview.jpg)
+![Preview](preview/preview.png)
 
 ## Available Scripts
 
